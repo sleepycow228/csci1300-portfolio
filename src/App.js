@@ -22,7 +22,7 @@ function App() {
             <Home />
           </>
         } />
-        <Route path="/csci1300-portfolio-personas" element={
+        <Route path="/csci1300-portfolio/personas" element={
           <>
             <a id="top"></a>
             <NavBar />
@@ -32,7 +32,7 @@ function App() {
               Return To Home</a>
           </>
         } />
-        <Route path="/csci1300-portfolio-responsive" element={
+        <Route path="/csci1300-portfolio/responsive" element={
           <>
             <a id="top"></a>
             <NavBar />
@@ -42,7 +42,7 @@ function App() {
               Return To Home</a>
           </>
         } />
-        <Route path="/csci1300-portfolio-development" element={
+        <Route path="/csci1300-portfolio/development" element={
           <>
             <a id="top"></a>
             <NavBar />
@@ -52,7 +52,7 @@ function App() {
               Return To Home</a>
           </>
         } />
-        <Route path="/csci1300-portfolio-iterative" element={
+        <Route path="/csci1300-portfolio/iterative" element={
           <>
             <a id="top"></a>
             <NavBar />
