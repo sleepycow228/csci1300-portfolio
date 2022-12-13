@@ -37,6 +37,7 @@ function Home() {
                 <h1>About sleepycow228:</h1>
                 <p>sleepycow228 is currently a Senior at Brown University. Their interests include full-stack development, sports, cooking and puzzles. </p>
             </div>
+            <a name="bottom" id="bottom">
         </div>
     );
 
