@@ -7,7 +7,7 @@ const projectData = [
         name: "Who Spins There?", image: "images/small_scooter.jpg", href: "https://sleepycow228.github.io/csci1300-portfolio-personas", shortDescription: "Come with me on my journey to better understand the users of spin scooters! This includes interview summaries, user personas, and a storyboard"
     },
     {
-        name: "MetroNails Redesign", image: "images/responsiveredesigncover.png", href: "/csci1300-portfolio-responsive", shortDescription: "Makeover time! Take a look at this redesign of the MetroNails website, the website of a Nail Salon in Providence"
+        name: "MetroNails Redesign", image: "images/responsiveredesigncover.png", href: "https://sleepycow228.github.io/csci-1300-portfolio-responsive", shortDescription: "Makeover time! Take a look at this redesign of the MetroNails website, the website of a Nail Salon in Providence"
     },
     {
         name: "Lancey", image: "images/lancey.png", href: "/csci1300-portfolio-iterative", shortDescription: "Come with me as I design an interface for Y Combinator startup Lancey!"
