@@ -14,7 +14,7 @@ const projectData = [
     }
     ,
     {
-        name: "My Super Great Candle Shop", image: "images/candle.jpg", href: "https://sleepycow228.github.io/csci1300-portfolio--development", shortDescription: "Want to browse some delightful candles? This was my first interactive interface and is a shopping page for a fictional candle shop."
+        name: "My Super Great Candle Shop", image: "images/candle.jpg", href: "https://sleepycow228.github.io/csci1300-portfolio-development", shortDescription: "Want to browse some delightful candles? This was my first interactive interface and is a shopping page for a fictional candle shop."
     },
 ]
 
