@@ -101,7 +101,6 @@ function NavBar() {
     <div className='NavBar' id='NavBar'>
       <nav>
          <a className='NavBarElement' href="https://sleepycow228.github.io/csci1300-portfolio/"> Home</a>
-        <a className='NavBarElement' href="https://sleepycow228.github.io/csci1300-portfolio#bottom"> About Me</a>
       </nav>
     </div>
   )
